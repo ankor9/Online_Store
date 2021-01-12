@@ -1,0 +1,5 @@
+[client]
+database=online_store
+user=online_store_user
+password=online_store
+default-character-set = utf8
